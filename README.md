@@ -1,4 +1,4 @@
-%md
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -7,7 +7,7 @@
 - [Setup Instructions](#setup-instructions)
 - [Next Steps](#next-steps)
 
-- %md
+
 # Fraud Detection Project
 
 ## Overview
